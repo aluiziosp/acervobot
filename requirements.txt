@@ -1,0 +1,5 @@
+flask
+gunicorn
+twilio
+google-genai
+psycopg2-binary
