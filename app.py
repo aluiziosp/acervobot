@@ -1,7 +1,7 @@
 import os
 import psycopg2
 from flask import Flask, request
-from twilio.twml.messaging_response import MessagingResponse
+from twilio.twiml.messaging_response import MessagingResponse
 from google import genai
 
 app = Flask(__name__)
